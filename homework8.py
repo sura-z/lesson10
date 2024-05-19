@@ -1,4 +1,4 @@
-def print_params():
-    print('ок ' * 2)
-print_params()
-print_params()
+def print_params(name):
+    print('ок', name)
+print_params('Elena')
+print_params('Vera')
